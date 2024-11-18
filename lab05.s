@@ -19,7 +19,7 @@ storage:
     addi s1, zero, 1
     addi s2, zero, 2
     addi s3, zero, 3
-
+#this is a comment
 # ----------------------------------------------------------------------------------------
 # Verify forwarding from the previous ALU instruction to input Op1 of ALU
 # There should be no added delay here.
